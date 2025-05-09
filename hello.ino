@@ -5,7 +5,7 @@ void setup() {
   pinMode(LED,OUTPUT);
   Serial.begin(9600); //baudios
   digitalWrite(LED,LOW);
-  Serial.print("Hello richi gei");
+  Serial.print("Hello richi");
 
 }
 
